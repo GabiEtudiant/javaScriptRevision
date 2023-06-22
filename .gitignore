@@ -1,0 +1,63 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/VirtualBox VMs
+/Videos
+/type-search-index.js
+/tag-search-index.js
+/stylesheet.css
+/source
+/Searches
+/search.js
+/search.html
+/search-page.js
+/script.js
+/script-dir
+/Saved Games
+/resources
+/Pictures
+/package-search-index.js
+/overview-tree.html
+/opera autoupdate
+/ntuser.ini
+/NTUSER.DAT{8478e6df-8ba2-11ec-95ce-8e18c5c2579d}.TMContainer00000000000000000002.regtrans-ms
+/NTUSER.DAT{8478e6df-8ba2-11ec-95ce-8e18c5c2579d}.TMContainer00000000000000000001.regtrans-ms
+/NTUSER.DAT{8478e6df-8ba2-11ec-95ce-8e18c5c2579d}.TM.blf
+/ntuser.dat.LOG2
+/ntuser.dat.LOG1
+/NTUSER.DAT
+/Music
+/module-search-index.js
+/MicrosoftEdgeBackups
+/member-search-index.js
+/Links
+/legal
+/jquery-ui.overrides.css
+/IntelGraphicsProfiles
+/index.html
+/index-files
+/IdeaProjects
+/help-doc.html
+/Favorites
+/element-list
+/Downloads
+/Documents
+/Desktop
+/cours
+/copy.svg
+/Contacts
+/AppData
+/allpackages-index.html
+/allclasses-index.html
+/3D Objects
+/.vscode
+/.VirtualBox
+/.nuget
+/.librarymanager
+/.lesshst
+/.jdks
+/.gitconfig
+/.dotnet
+/.config
+/.bash_history
